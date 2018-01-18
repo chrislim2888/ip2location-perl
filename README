@@ -31,8 +31,13 @@ DEPENDENCIES
 
 The complete database is available at http://www.ip2location.com under subscription package.
 
+
+IPv4 BIN vs IPv6 BIN
+* Use the IPv4 BIN file if you just need to query IPv4 addresses.
+* Use the IPv6 BIN file if you need to query BOTH IPv4 and IPv6 addresses.
+
 COPYRIGHT AND LICENCE
 
-Copyright (C) 2017 by IP2Location.com, support@ip2location.com
+Copyright (C) 2018 by IP2Location.com, support@ip2location.com
 
 This library is free software; you can redistribute it and/or modify it under the same terms as Perl itself, either Perl version 5.8.6 or, at your option, any later version of Perl 5 you may have available.
